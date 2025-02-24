@@ -26,7 +26,7 @@ pip install jupyter numpy matplotlib
 ```
 
 ### 2. Run the Notebook  
-1. Download the datasets from this repo.
+1. Download the datasets from this repo. If you need more data that is used in noteook, please write me on email: el.smirnov@innopolis.university
 
 2. Launch the notebook:  
 ```bash
